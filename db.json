@@ -1,4 +1,5 @@
 {
+ "CIODSQuote": [
 "Link": [
 {
 "rel": "self",
@@ -11,8 +12,6 @@
 "name": "CI ODS Quote"
 }
 ],
-"CI ODS Quote": [
-{
 "Name": "Niloy",
 "Calc FS Revenue": "",
 "Calc SR Profit": "",
@@ -115,7 +114,7 @@
 "Total Square Feet Calc": "",
 "Total Square Feet Use": "",
 "Total SR Availability": "",
-"Total SR Line Item": ""
+"Total SR Line Item": "" 
 }
-  ]
+]
 }
