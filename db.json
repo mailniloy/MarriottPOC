@@ -2,16 +2,16 @@
 "Link": [
 {
 "rel": "self",
-"href": "https://my-json-server.typicode.com/mailniloy/MarriottPOC/CI ODS Quote/CI ODS Quote/Test",
+"href": "https://my-json-server.typicode.com/mailniloy/MarriottPOC/CI ODS Quote/CI ODS Quote",
 "name": "CI ODS Quote"
 },
 {
 "rel": "canonical",
-"href": "https://my-json-server.typicode.com/mailniloy/MarriottPOC/CI ODS Quote/CI ODS Quote/Test",
+"href": "https://my-json-server.typicode.com/mailniloy/MarriottPOC/CI ODS Quote/CI ODS Quote",
 "name": "CI ODS Quote"
 }
 ],
-"Fields": [
+"CI ODS Quote": [
 {
 "Name": "Test",
 "Calc FS Revenue": "",
