@@ -11,6 +11,8 @@
 "name": "CI ODS Quote"
 }
 ],
+"Fields": [
+{
 "Name": "Test",
 "Calc FS Revenue": "",
 "Calc SR Profit": "",
@@ -114,4 +116,6 @@
 "Total Square Feet Use": "",
 "Total SR Availability": "",
 "Total SR Line Item": ""
+}
+  ]
 }
